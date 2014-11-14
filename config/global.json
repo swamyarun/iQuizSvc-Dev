@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "AKConsultingWebsite": {
+            "applicationId": "sy16l1k73tMNLdowwFeZztgq51MPRm3MXpZubpMd", 
+            "masterKey": "xxTlbFEk0LfLEcq2UFT0mTO4DeU5AjljSbULDuzz"
+        }, 
+        "_default": {
+            "link": "AKConsultingWebsite"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.1"
+    }
+}
